@@ -9,7 +9,7 @@ import os
 
 load_dotenv()
 
-file_path = "/Users/jiapannan/PycharmProjects/pythonProject/pythonProject/1000 Assistant API/LangChain/test/langchain_doc.csv"    
+file_path = "/Users/jiapannan/PycharmProjects/pythonProject/pythonProject/1000 Assistant API/LangChain/test/naver_blog.csv"    
 local_persist_path  = "./vector_store"
 
 def get_index_path(index_name):
